@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[1] Config.pm:310> INFO - Logfile is 'draft.blg'
+[237] biber-MSWIN64:340> INFO - === 
+[292] Biber.pm:418> INFO - Reading 'draft.bcf'
+[499] Biber.pm:972> INFO - Found 17 citekeys in bib section 0
+[530] Biber.pm:4383> INFO - Processing section 0
+[550] Biber.pm:4574> INFO - Looking for bibtex file 'bib.bib' for section 0
+[612] bibtex.pm:1713> INFO - LaTeX decoding ...
+[666] bibtex.pm:1518> INFO - Found BibTeX data source 'bib.bib'
+[861] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[861] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[861] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[861] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[878] bbl.pm:654> INFO - Writing 'draft.bbl' with encoding 'UTF-8'
+[894] bbl.pm:757> INFO - Output to draft.bbl

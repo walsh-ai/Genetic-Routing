@@ -1,0 +1,71 @@
+I have one goal: To write the alpha algorithm. 
+
+n: Total nodes
+kf: Expected number of connections (expected degree) of each node
+		Number of edges = kf*n/2 
+		Fully connected means kf = (n-1), M=(n 2) = n*(n-1)/2 
+alpha: (0 <= a <= inf) regulate between caveman and solaria in terms of the propensity for new connections 
+p: (0 <= p <= 1) baseline prob. for the creation of a random connection between any pair. p is considered with very small pr. e.g. 0.001 or less that gets relevance only when the alpha parameter makes the number of friends of friends irrelevant 
+
+Caveman and Solaria: 
+The caveman community tends to establish new links only between inhabitants of small clusters (in the same cave). Low propensity to connect between clusters.
+"Everybody you know knows everybody else you know and (almost) nobody else". 
+The solaria community connect randomly with every other citizen and not mainly with friends of friends (e.g. as internet chat room users). In solaria, the influence of current friendships over new friendships is very low.
+
+
+Loop algorithm:
+
+1. Examine the graph at the previous step (t-1), for each pair i,j that are not already connected calculate: 
+	m_i,j = number of nodes adjacent to both i, j (mutual friends)
+	k = average degree of the network at time t-1 
+2. Calculate propensity matrix Rij according to:
+	Rij = 1 if mij >= k 
+		(m_ij / k)^a * (1 - p) + p if 0 < mij < k
+		p if mij = 0 
+
+	Pij = Rij / sum_n_j=1{ Rij } 
+	The propensity matrix is normalised to a probability matrix Pij giving probability that node i will connect with j for all i,j
+	
+
+3. For caveman (a = 0) Rij = 1 if mij > 0, p if mij = 0 
+		i.e. there is a definite probability for mutual friends to connect as alpha approaches zero, but a very low probability for separated nodes to connect
+ For solaria (a = 1) Rij = 1 if mij >= k(t-1), p if mij < k(t-1) 
+	Meaning unless nodes i, j have reached a threshold of mutual friends their probability of connection is the same as having no mutual friends at all. 
+By setting the average degree of the network as the threshold, you more or less say that if two nodes have all neighbours in common, they can hardly avoid connecting, but this is unlikely to happen. 
+
+4. The initial condition for the network is a topological ring in which each node connects two other nodes. 
+
+5. The loop continues until the final number of edges (M) is reached 
+
+
+One benefit of starting with the ring network is that it is connected, and the graph will stay connected through the algorithmic steps. It has minimal structure, no nodes are different. Minimally connected, minimum number of edges for a connected graph with the minimal structure. This initial condition is called a 'substrate' by Watts. The ring is chosen to have the minimal impact on the evolution of the global network. 
+
+
+
+The result: For different values of alpha, you get different relationships between the propensity to become friends and mutual friends. 
+
+The Beta-Model is also known as the Watts-Strogatz model, it is much simpler and better known. 
+		
+
+
+Choose a vertex i. For every other vertex j, compute Rij and Pij.
+
+Vertex i connect with another randomly chosen vertex j with probability Pij.
+
+Updates symmetric adjacency matrix by placing a 1 at positions ij, ji 
+
+
+The vertices i are chosen in a random order. Once it has chosen new neighbour j, it cannot choose again until all other nodes have chosen. 
+
+This 'democratic' procedure limits the possibility for each node to be selected more frequently than the others for choosing a partner. 
+
+
+
+
+
+
+
+
+
+
+

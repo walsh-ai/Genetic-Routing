@@ -1,0 +1,53 @@
+Your results really matter. They can be a ticket to freedom. 
+
+What results do we want? 
+
+1) Determine whether or not the dynamic element actually changes the
+shortest path a lot. That's one experiment. 
+
+I.e. you have time steps and you have the (average) shortest path 
+I.e. you have the time step and the number of shortest paths changed 
+I.e. you have the time step and the sum of the changes in the shortest paths 
+
+Let's say you have uniform drop out at Pr(N) = 0.05 ~~~~ Or change the
+path length somehow. Or, change in edge length normally distributed (i.e. multiply with value from normal distribution mean 1, sd 0.5 or something). 
+
+How do these methods effect the path length? How do they effect it together?
+
+Question remains with drop-out method about dropping nodes back in. 
+How does the ratio of active to inactive nodes change through time steps? 
+
+Run these experiments several times, and plot the average of the results for each ^^
+
+2) Well, we have all these graph models, perhaps each of the above experiments could be run on each graph model. Or else, generate on a graph with perfect small world properties? Or do some 3D plots, where the statistic of the graph also changes. 
+
+
+3) Then what? The aim then is to see how a genetic algorithm performs for 
+finding the shortest path in a dynamic network.
+
+Have all of the content on desining a genetic algorithm, then one with memory schemes, then one with immigrant schemes, then one with both. 
+
+
+4) Then test it. How do we test it? 
+
+For each graph with each statistic, generate several instances, test on all, average performance, plot average performances for all graph types/stats
+for each variation of the algorithm. 
+
+Did any of the techniques or combinations prove advantageous? 
+
+Does the algorithm perform differently for any of the graph models defined? 
+
+There needs to be a way of comparing performance. Performance then needs to be compared with ground truth: The true shortest paths computed by djikstras. How accurate is the algorithm? 
+
+How fast is the algorithm? 
+
+Ask and answer these, and we are ready to review, write about future work, fill out an appendix and conclude. 
+
+
+Tomorrow, write an outline for the project in LATEX. 
+
+
+
+
+
+

@@ -1,0 +1,540 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{yang:10}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d1eedddd5299399128f76ba27d37606d}{%
+           family={{Yang, Member IEEE}},
+           familyi={Y\bibinitperiod},
+           given={Shengxiang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e9e1c29b6a7e4f9564f4805ce9463804}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=99f5d1df28d013a97f1959f403ea3406}{%
+           family={{Wang, Member IEEE}},
+           familyi={W\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \strng{fullhash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \strng{bibnamehash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \strng{authorbibnamehash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \strng{authornamehash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \strng{authorfullhash}{00c97f6a3e4a05f03eb68877a4a887fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Systems, Man and Cybernetics - Part C: Applications and Reviews}
+      \field{number}{1}
+      \field{title}{Genetic Algorithms With Immigrants and Memory Schemes for Dynamic Shortest Path Routing Problems in Mobile Ad Hoc Networks}
+      \field{volume}{40}
+      \field{year}{2010}
+      \field{pages}{52\bibrangedash 63}
+      \range{pages}{12}
+    \endentry
+    \entry{kumar:10}{article}{}
+      \name{author}{2}{}{%
+        {{hash=77382fca933d5fc844bce3bb42d79412}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Raeksh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b30c0c2e5a620cb60b9554186657b0b0}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Mahesh},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \strng{fullhash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \strng{bibnamehash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \strng{authorbibnamehash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \strng{authornamehash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \strng{authorfullhash}{6feba2a73d8cc8c29af9d5bf3a3d2514}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global Journal of Computer Science and Technology}
+      \field{number}{11}
+      \field{title}{Exploring Genetic Algorithms for Shortest Path Optimisation Data Networks}
+      \field{volume}{10}
+      \field{year}{2010}
+      \field{pages}{8\bibrangedash 12}
+      \range{pages}{5}
+    \endentry
+    \entry{yussof:09}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2d7ab0f51afc8d1d0c7c7c5ffd8733c0}{%
+           family={Yussof},
+           familyi={Y\bibinitperiod},
+           given={Salman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa4b03d459f937b9c2836e9afe900c03}{%
+           family={{Azlin Razali}},
+           familyi={A\bibinitperiod},
+           given={Rina},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2c2d7821ff32955f0f5cbd1286405f31}{%
+           family={{Hang See}},
+           familyi={H\bibinitperiod},
+           given={Ong},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \strng{fullhash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \strng{bibnamehash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \strng{authorbibnamehash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \strng{authornamehash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \strng{authorfullhash}{01fd905921d32002e8d154c0e5f4aa1e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2009 International Conference on Future Computer and Communication}
+      \field{title}{A Parallel Genetic Algorithm for Shortest Path Routing Problem}
+      \field{year}{2009}
+    \endentry
+    \entry{watts:98}{article}{}
+      \name{author}{2}{}{%
+        {{hash=76ca57cc0e56eedda4291579ca8b2c71}{%
+           family={{J. Watts}},
+           familyi={J\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5729ce7128ecc62991aa0d321cc18df9}{%
+           family={{H. Strogatz}},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \strng{fullhash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \strng{bibnamehash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \strng{authorbibnamehash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \strng{authornamehash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \strng{authorfullhash}{d0a6d83d17a59dbe161b7b012febf7e1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Collective Dynamics of `small-world' Networks}
+      \field{volume}{393}
+      \field{year}{1998}
+    \endentry
+    \entry{telesford:11}{article}{}
+      \name{author}{5}{}{%
+        {{hash=062c67b300ae0144390f9b0a3a2c2bd0}{%
+           family={{K. Telesford}},
+           familyi={K\bibinitperiod},
+           given={Qawi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=37768d66a311aa58460894e57add6bc7}{%
+           family={{E. Joyce}},
+           familyi={E\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=08ec8f7806a904eb43dfa7ea2d7f72fd}{%
+           family={Hayasaka},
+           familyi={H\bibinitperiod},
+           given={Satoru},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2f0e9fc5e1c253f1bbde8a8f936f06dc}{%
+           family={{H. Burdette}},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=142d8402f0d5a764db16e6ab80c5a74b}{%
+           family={{J. Laurienti}},
+           familyi={J\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{77738d26eaa90e34399bcb0d8fd923e9}
+      \strng{fullhash}{eae8fd063bbde4cceaaa597205d142d2}
+      \strng{bibnamehash}{77738d26eaa90e34399bcb0d8fd923e9}
+      \strng{authorbibnamehash}{77738d26eaa90e34399bcb0d8fd923e9}
+      \strng{authornamehash}{77738d26eaa90e34399bcb0d8fd923e9}
+      \strng{authorfullhash}{eae8fd063bbde4cceaaa597205d142d2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{5}
+      \field{title}{The Ubiquity of Small-World Networks}
+      \field{volume}{1}
+      \field{year}{2011}
+    \endentry
+    \entry{dong:15}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ca59c0293f58da26bf6d2140ecb21a9a}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Ziqlain},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c92fb4d761d5c067a9eb42b2a2cf1521}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=fb1685728d5b02cb2dd3cd38a43e1124}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=63a5c7c186e0ed3d8cf5115db4b02064}{%
+           family={Emelumadu},
+           familyi={E\bibinitperiod},
+           given={Obinna},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f59c8fab2d6930619fa442f00aa571a3}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chuan-Bi},
+           giveni={C\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=80aff662c299d0fb26c41069f8260559}{%
+           family={Rojas-Cessa},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{48b972305ec3188eca59e043c920acd6}
+      \strng{fullhash}{41bd878f077cb9e3aee0d2a33cda7169}
+      \strng{bibnamehash}{48b972305ec3188eca59e043c920acd6}
+      \strng{authorbibnamehash}{48b972305ec3188eca59e043c920acd6}
+      \strng{authornamehash}{48b972305ec3188eca59e043c920acd6}
+      \strng{authorfullhash}{41bd878f077cb9e3aee0d2a33cda7169}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Journal of Cyber Security and Mobility}
+      \field{number}{2}
+      \field{title}{An Experimental Study of Small World Network Models for Wireless Networks}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{pages}{259\bibrangedash 278}
+      \range{pages}{20}
+    \endentry
+    \entry{broido:19}{arcitle}{}
+      \name{author}{2}{}{%
+        {{hash=6221f39c6e47007b149df3132bb87bf2}{%
+           family={{D. Broido}},
+           familyi={D\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=42b12665bdf3534fb7bb76c73fc17ebe}{%
+           family={Clauset},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \strng{fullhash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \strng{bibnamehash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \strng{authorbibnamehash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \strng{authornamehash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \strng{authorfullhash}{8844bbd81cad3aa7fff4c7f1d9c39702}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1017}
+      \field{title}{Scale-Free Networks are Rare}
+      \field{volume}{10}
+      \field{year}{2019}
+    \endentry
+    \entry{sohn:17}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c9a0b21c788ec1232f1136d745879c29}{%
+           family={Sohn},
+           familyi={S\bibinitperiod},
+           given={Insoo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9a0b21c788ec1232f1136d745879c29}
+      \strng{fullhash}{c9a0b21c788ec1232f1136d745879c29}
+      \strng{bibnamehash}{c9a0b21c788ec1232f1136d745879c29}
+      \strng{authorbibnamehash}{c9a0b21c788ec1232f1136d745879c29}
+      \strng{authornamehash}{c9a0b21c788ec1232f1136d745879c29}
+      \strng{authorfullhash}{c9a0b21c788ec1232f1136d745879c29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mobile Information Systems Special Issue, Embedded IoT Systems: Network, Platform, and Software}
+      \field{title}{Small-World and Scale-Free Network Models for IoT Systems}
+      \field{volume}{2017}
+      \field{year}{2017}
+    \endentry
+    \entry{kim:12}{article}{}
+      \name{author}{3}{}{%
+        {{hash=03f38c879ca0bc9f1dcbada69ea0519a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9223068595ec61a425a8b0677798c3e5}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d2a42748fe8483920b6baabb1eda8b9a}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \strng{fullhash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \strng{bibnamehash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \strng{authorbibnamehash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \strng{authornamehash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \strng{authorfullhash}{e1fafe0f3440212d19d2eabb92cfcae2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Wireless Communications Letters}
+      \field{number}{5}
+      \field{title}{Scale-Free Wireless Networks with Limited Degree Information}
+      \field{volume}{1}
+      \field{year}{2012}
+      \field{pages}{428\bibrangedash 431}
+      \range{pages}{4}
+    \endentry
+    \entry{smith:21}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ede911331c17dc81e2e705a2bc685ca4}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Keith\bibnamedelima Malcom},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ede911331c17dc81e2e705a2bc685ca4}
+      \strng{fullhash}{ede911331c17dc81e2e705a2bc685ca4}
+      \strng{bibnamehash}{ede911331c17dc81e2e705a2bc685ca4}
+      \strng{authorbibnamehash}{ede911331c17dc81e2e705a2bc685ca4}
+      \strng{authornamehash}{ede911331c17dc81e2e705a2bc685ca4}
+      \strng{authorfullhash}{ede911331c17dc81e2e705a2bc685ca4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1976}
+      \field{title}{Explaining the emergence of complex networks through log-normal fitness in a Euclidean node similarity space}
+      \field{volume}{11}
+      \field{year}{2021}
+    \endentry
+    \entry{yang:08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc4b12c51aa082bb15046ae978538a93}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shengxiang},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc4b12c51aa082bb15046ae978538a93}
+      \strng{fullhash}{fc4b12c51aa082bb15046ae978538a93}
+      \strng{bibnamehash}{fc4b12c51aa082bb15046ae978538a93}
+      \strng{authorbibnamehash}{fc4b12c51aa082bb15046ae978538a93}
+      \strng{authornamehash}{fc4b12c51aa082bb15046ae978538a93}
+      \strng{authorfullhash}{fc4b12c51aa082bb15046ae978538a93}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evolutionary Computing}
+      \field{number}{3}
+      \field{title}{Genetic Algorithms with memory and elitism based immigrants in dyanmic environments}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{385\bibrangedash 416}
+      \range{pages}{32}
+    \endentry
+    \entry{even:12}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1df6d440bdcf5ce3d3ad82d370770f54}{%
+           family={Even},
+           familyi={E\bibinitperiod},
+           given={Shimon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \strng{fullhash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \strng{bibnamehash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \strng{authorbibnamehash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \strng{authornamehash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \strng{authorfullhash}{1df6d440bdcf5ce3d3ad82d370770f54}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Graph Algorithms}
+      \field{year}{2012}
+    \endentry
+    \entry{gonen:11}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1f4733372684597a9b3ed8bd5095425c}{%
+           family={Gonen},
+           familyi={G\bibinitperiod},
+           given={Bilal},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f4733372684597a9b3ed8bd5095425c}
+      \strng{fullhash}{1f4733372684597a9b3ed8bd5095425c}
+      \strng{bibnamehash}{1f4733372684597a9b3ed8bd5095425c}
+      \strng{authorbibnamehash}{1f4733372684597a9b3ed8bd5095425c}
+      \strng{authornamehash}{1f4733372684597a9b3ed8bd5095425c}
+      \strng{authorfullhash}{1f4733372684597a9b3ed8bd5095425c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The 2011 International Conference on Genetic and Evolutionary Methods}
+      \field{title}{Genetic Algoithm for Finding Shortest Path in Networks}
+      \field{year}{2011}
+    \endentry
+    \entry{helmy:03}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3120859eb4b8b4ea265938f619df76be}{%
+           family={Ahmed\bibnamedelima Helmy},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={IEEE},
+           giveni={I\bibinitperiod},
+           suffix={Member},
+           suffixi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3120859eb4b8b4ea265938f619df76be}
+      \strng{fullhash}{3120859eb4b8b4ea265938f619df76be}
+      \strng{bibnamehash}{3120859eb4b8b4ea265938f619df76be}
+      \strng{authorbibnamehash}{3120859eb4b8b4ea265938f619df76be}
+      \strng{authornamehash}{3120859eb4b8b4ea265938f619df76be}
+      \strng{authorfullhash}{3120859eb4b8b4ea265938f619df76be}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Letter}
+      \field{number}{10}
+      \field{title}{Small Worlds in Wireless Networks}
+      \field{volume}{7}
+      \field{year}{2003}
+    \endentry
+    \entry{albert:02}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ba374d9d56eedd7d3caede3da5a44e49}{%
+           family={Albert},
+           familyi={A\bibinitperiod},
+           given={Reka},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b2d66ab85a6a23f6f1d4fd558eb1fd06}{%
+           family={Barabasi},
+           familyi={B\bibinitperiod},
+           given={Albert-Laszlo},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{fullhash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{bibnamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authorbibnamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authornamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authorfullhash}{05cef48e1bedbf1092ed5378b557c02e}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{title}{Statistical Mechanics of Complex Networks}
+      \field{volume}{74}
+      \field{year}{2002}
+    \endentry
+    \entry{albert:99}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ba374d9d56eedd7d3caede3da5a44e49}{%
+           family={Albert},
+           familyi={A\bibinitperiod},
+           given={Reka},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b2d66ab85a6a23f6f1d4fd558eb1fd06}{%
+           family={Barabasi},
+           familyi={B\bibinitperiod},
+           given={Albert-Laszlo},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{fullhash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{bibnamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authorbibnamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authornamehash}{05cef48e1bedbf1092ed5378b557c02e}
+      \strng{authorfullhash}{05cef48e1bedbf1092ed5378b557c02e}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{Emergence of Scaling in Random Networks}
+      \field{volume}{286}
+      \field{year}{1999}
+    \endentry
+    \entry{mitchell:97}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dbec6e093a3498545a7c35beaa1feaf4}{%
+           family={{M. Mitchell}},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Education}%
+      }
+      \strng{namehash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \strng{fullhash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \strng{bibnamehash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \strng{authorbibnamehash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \strng{authornamehash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \strng{authorfullhash}{dbec6e093a3498545a7c35beaa1feaf4}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{International Edition}
+      \field{title}{Machine Learning}
+      \field{year}{1997}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,16 @@
+Video on implementing random graph (erdos-renyi) in python by Indian girl 
+https://www.youtube.com/watch?v=ZTTovIwJa5w
+
+2 minute video on random graphs (erdos renyi)
+https://www.youtube.com/watch?v=ZAtYbC9E6qM
+
+
+Page on dynamic update in static graph with networkx
+https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/16%3A_Dynamical_Networks_I__Modeling/16.02%3A_Simulating_Dynamics_on_Networks
+
+
+Configuration/Chun Lu:
+https://mathinsight.org/generating_networks_desired_degree_distribution
+
+Chung Lu networkx:
+https://networkx.org/documentation/stable/reference/generated/networkx.generators.degree_seq.expected_degree_graph.html
